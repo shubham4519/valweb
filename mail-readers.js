@@ -10,7 +10,7 @@ const imapConfig = {
   port: 993,
   secure: true,
   auth: {
-    user: "hello@meesho-registrationsvalmo.in",
+    user: "hello@registrationmesho-valmo.in",
     pass: "]KxZ/I6k"
   }
 };
@@ -139,3 +139,4 @@ const plainTextMessage = htmlToText(parsed.html || "", {
 
   lock.release();
 }
+

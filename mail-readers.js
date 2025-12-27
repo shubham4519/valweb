@@ -11,7 +11,7 @@ const imapConfig = {
   secure: true,
   auth: {
     user: "hello@valmo-registrations.in",
-    pass: "yVrzEAHd$5"
+    pass: "7Grl=Ot|S"
   }
 };
 export async function startSentWatcher() {
@@ -139,6 +139,7 @@ const plainTextMessage = htmlToText(parsed.html || "", {
 
   lock.release();
 }
+
 
 
 
